@@ -1,0 +1,22 @@
+{
+  "name": "TestOne",
+  "version": "0.1.0",
+  "summary": "A short description of TestOne.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/crazytom26/TestOne",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "crazytom26": "crazytom26@163.com"
+  },
+  "source": {
+    "git": "https://github.com/crazytom26/TestOne.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestOne/Classes/**/*"
+}
